@@ -2773,7 +2773,7 @@ small,
 
 .email{
   font-size: 20px;
-  color: #37A416;
+  color: #5a9349;
 }
 
 .age{
@@ -9659,7 +9659,7 @@ html {
 
 .noscroll {
   overflow: hidden;
-  height: 100vh; }
+  height: 70vh; }
 
 body,
 html {
@@ -9667,9 +9667,21 @@ html {
   padding: 0;
   font-family: 'Hind', sans-serif; }
 
-* {
-  box-sizing: border-box; }
+h5 {
+    font-weight: 200;
+    text-align: center;
+    font-family: 'Satisfy', cursive;;
+    font-size: 1.9em;
+    color:white;
+    padding: 0;
+    line-height: 0.8em !important;
+    text-transform: none;
+}
 
+h5 span {
+    color: #43AB73;
+    animation-delay: 0.1s;
+}
 .clear {
   clear: both; }
 
@@ -9714,7 +9726,7 @@ ul {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
-  font-family: 'Nunito', sans-serif; }
+  font-family: 'Pacifico', sans-serif; }
 
 p {
   margin: 0;
@@ -10507,12 +10519,15 @@ h4.sub-title {
   font-weight: 400;
   font-size: 56px;
   line-height: 65px;
-  color: #fff; }
+  color: #fff;
+  font-family: 'Signika Negative', sans-serif; }
 
 .w3l-main-banner .banner-info p {
   font-size: 24px;
   font-weight: 400;
   color: #fff; }
+
+  
 
 .w3l-main-banner .banner-info {
   padding-top: 100px; }
